@@ -2,7 +2,7 @@
 -----------------------------README-----------------------------------------
 
 Sine we are using qiskit, there is no guarrentee that all the codes uploaded here
-will working properly because the version of qiskit is changed frequently.
+will work properly because the version of qiskit is changed frequently.
 
 
 -----------------------------ATTENTION-----------------------------------------
