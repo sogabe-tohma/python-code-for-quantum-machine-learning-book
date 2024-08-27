@@ -1,10 +1,8 @@
 
 -----------------------------README-----------------------------------------
-
-Sine we are using qiskit, there is no guarrentee that all the codes uploaded here
-will work properly because the version of qiskit is changed frequently.
-
-
+All the codes have been tested successfully at the Google Colab environment. 
+However, Since we are using qiskit, there is no guarantee that all the codes 
+uploaded here will work properly because the version of qiskit is changed frequently.
 -----------------------------ATTENTION-----------------------------------------
 
 1.  please use 'from qiskit_aer import AerSimulator' if you want 
