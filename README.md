@@ -2,7 +2,7 @@
 -----------------------------README-----------------------------------------
 
 All the codes have been tested successfully at the Google Colab environment. 
-However, Since we are using qiskit, there is no guarantee that all the codes 
+However, since we are using qiskit, there is no guarantee that all the codes 
 uploaded here will work properly because the version of qiskit is changed frequently.
 
 -----------------------------ATTENTION-----------------------------------------
