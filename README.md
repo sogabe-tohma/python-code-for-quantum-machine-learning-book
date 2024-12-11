@@ -4,8 +4,8 @@
 All the codes have been tested successfully at the Google Colab environment. 
 However, since we are using qiskit, there is no guarantee that all the codes 
 uploaded here will work properly because the version of qiskit is changed frequently.
-However, by specifying the correct version of the code as shown in Attention=1, most
-of the code will be properly excecuted
+However, by specifying the correct version of the code as shown in Attention~1, 
+most of the code will execute properly.
 
 
 
@@ -13,6 +13,7 @@ of the code will be properly excecuted
 
 1.  pip install qiskit[visualization]==0.44.1
 2.  pip install qiskit-aer==0.12.2
+
 -----------------------------ATTENTION~1-----------------------------------------
 
      .
